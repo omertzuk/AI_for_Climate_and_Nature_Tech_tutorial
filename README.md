@@ -11,10 +11,6 @@ Open the notebook directly in Google Colab — no installation needed:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ukidH1mDhEOlm2BmR-y01qmGGyqwTrAF?usp=sharing)
 
-Or open from this GitHub repository:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/AI_for_Climate_and_Nature_Tech_tutorial/blob/main/notebooks/AI_for_Climate_NatureTech_ML_Demo.ipynb)
-
 ## 📁 Contents
 
 ### Datasets
